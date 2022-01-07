@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abdullah Aljeffiry
+- 👀 I’m interested in Computer Networks, Data Science, Web Dev, and PenTesting
+- 🌱 I’m currently a computer engineering student at KFUPM 
+- 📫 How to reach me ... my email : aljeffiry.31@gmail.com
